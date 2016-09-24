@@ -1,0 +1,19 @@
++++
+date = "2005-01-02T16:46:00+00:00"
+title = "AutoGK contains adware"
++++
+
+\--- title: AutoGK contains adware mt_id: 154 layout: post date: 2005-01-02
+16:46:00 +00:00 \---
+
+I regret that I need to retract my earlier recommendation to use Auto Gordian
+Knot. The 1.84 beta installs a BHO at c:\windows\system32\dae.dll
+("RESPONSETARGET") that pops up ads while you browse in MSIE.
+
+It's the right of the AutoGK author to put whatever junk he wants to in his
+program (subject to licensing), so I'm not going to post instructions how to
+remove the adware. Instead I'll just state that if you don't want adware on
+your system, you should not use AutoGK. It's sad, because it was a useful
+frontend to a complicated toolchain, and I'm not aware of a comparable
+replacement at this moment.
+

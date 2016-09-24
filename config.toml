@@ -1,0 +1,4 @@
+baseurl = "https://www.sowbug.com/"
+languageCode = "en-us"
+title = "sowbug.com"
+theme = "heather-hugo"
