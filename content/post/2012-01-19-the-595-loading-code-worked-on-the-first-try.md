@@ -3,8 +3,7 @@ date = "2012-01-19T11:20:05-08:00"
 title = "the 595 loading code worked on the first try"
 +++
 
-
-![](http://66.media.tumblr.com/tumblr_lxvn8sQ9kM1qly645o1_1280.jpg)  
+ ![](/tumblr_files/tumblr_lxvn8sQ9kM1qly645o1_1280.jpg)  
 
 The '595 loading code worked on the first try, which I can explain only
 because I found the cascading shift-register logic unintuitive at first, until

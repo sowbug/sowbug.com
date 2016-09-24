@@ -3,8 +3,7 @@ date = "2012-02-16T14:03:05-08:00"
 title = "a very early and surely broken board layout on"
 +++
 
-
-![](http://67.media.tumblr.com/tumblr_lzf4slUlMb1qly645o1_1280.png)  
+ ![](/tumblr_files/tumblr_lzf4slUlMb1qly645o1_1280.png)  
 
 A very early and surely broken board layout. On the left are the power jack,
 USB port, and micro-SD slot. The socketed chip in the middle is the SRAM, and

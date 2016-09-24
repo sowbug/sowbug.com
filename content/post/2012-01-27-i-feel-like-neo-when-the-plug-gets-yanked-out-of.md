@@ -3,8 +3,7 @@ date = "2012-01-27T11:20:06-08:00"
 title = "i feel like neo when the plug gets yanked out of"
 +++
 
-
-![](http://67.media.tumblr.com/tumblr_lygws6N0jG1qly645o1_250.jpg)  
+ ![](/tumblr_files/tumblr_lygws6N0jG1qly645o1_250.jpg)  
 
 I feel like Neo when the plug gets yanked out of his head: "I know JTAG."
 Except I really don't, and it took three days instead of three seconds.

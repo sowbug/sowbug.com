@@ -3,8 +3,7 @@ date = "2012-05-02T08:07:42-07:00"
 title = "first two ok wake boards i assembled them and"
 +++
 
-
-![](http://67.media.tumblr.com/tumblr_m3bws8oKA11qly645o1_1280.jpg)  
+ ![](/tumblr_files/tumblr_m3bws8oKA11qly645o1_1280.jpg)  
 
 First two [OK Wake](/post/21150945583/ok-wake) boards. I assembled them and
 wrote a quickie program to test that everything was wired up properly. I

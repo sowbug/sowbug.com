@@ -3,8 +3,7 @@ date = "2012-01-18T16:44:05-08:00"
 title = "this is getting ridiculous its time to make a"
 +++
 
-
-![](http://65.media.tumblr.com/tumblr_lxvmzg7w9E1qly645o1_1280.jpg)  
+ ![](/tumblr_files/tumblr_lxvmzg7w9E1qly645o1_1280.jpg)  
 
 This is getting ridiculous. It's time to make a PCB or move to FPGA, because
 I'm running out of breadboard space. On the near side of the breadboard are

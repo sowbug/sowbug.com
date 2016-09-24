@@ -3,8 +3,7 @@ date = "2012-01-20T11:20:05-08:00"
 title = "address and data bus lines are now connected"
 +++
 
-
-![](http://66.media.tumblr.com/tumblr_lxx8dcu2kK1qly645o1_1280.jpg)  
+ ![](/tumblr_files/tumblr_lxx8dcu2kK1qly645o1_1280.jpg)  
 
 Address and data bus lines are now connected between the '595s and the SRAM.
 The breadboard has gotten unworkable. It's time to take a different approach.

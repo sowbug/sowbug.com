@@ -3,8 +3,7 @@ date = "2012-01-16T13:30:05-08:00"
 title = "the mostly working circuit in the lower left is"
 +++
 
-
-![](http://67.media.tumblr.com/tumblr_lxtfmeNz321qly645o1_1280.jpg)  
+ ![](/tumblr_files/tumblr_lxtfmeNz321qly645o1_1280.jpg)  
 
 The mostly-working circuit. In the lower-left is the ATtiny13A, running on the
 9.6MHz internal RC, and outputting a clock on PB3 as fast as C code can. PB4

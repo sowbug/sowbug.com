@@ -3,8 +3,7 @@ date = "2012-01-16T16:42:06-08:00"
 title = "the proof is in the logic analyzer it works rows"
 +++
 
-
-![](http://66.media.tumblr.com/tumblr_lxtgor3mz91qly645o1_1280.jpg)  
+ ![](/tumblr_files/tumblr_lxtgor3mz91qly645o1_1280.jpg)  
 
 The proof is in the logic analyzer: it works! Rows 0-4 are A0-A4, or the
 lowest-significance address-bus outputs. Row 5 (green) is the reset signal.

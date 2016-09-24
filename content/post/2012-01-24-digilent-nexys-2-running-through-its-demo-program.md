@@ -3,8 +3,7 @@ date = "2012-01-24T11:20:05-08:00"
 title = "digilent nexys 2 running through its demo program"
 +++
 
-
-![](http://66.media.tumblr.com/tumblr_lyb76woCv71qly645o1_1280.jpg)  
+ ![](/tumblr_files/tumblr_lyb76woCv71qly645o1_1280.jpg)  
 
 [Digilent Nexys 2](http://digilent.org/Products/Detail.cfm?Prod=NEXYS2)
 running through its demo program. I completed a VHDL

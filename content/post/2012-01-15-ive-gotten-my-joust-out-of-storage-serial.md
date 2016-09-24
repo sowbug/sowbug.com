@@ -3,8 +3,7 @@ date = "2012-01-15T16:46:00-08:00"
 title = "ive gotten my joust out of storage serial"
 +++
 
-
-![](http://67.media.tumblr.com/tumblr_lxv00x4RMo1qly645o1_1280.jpg)  
+ ![](/tumblr_files/tumblr_lxv00x4RMo1qly645o1_1280.jpg)  
 
 I've gotten my Joust out of storage. Serial #606900 (or 60690D according to
 handwritten permanent ink on one of the wooden struts inside). Strictly

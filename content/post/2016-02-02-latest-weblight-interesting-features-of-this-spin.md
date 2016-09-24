@@ -3,8 +3,7 @@ date = "2016-02-02T10:58:41-08:00"
 title = "latest weblight interesting features of this spin"
 +++
 
-
-![](http://67.media.tumblr.com/c5b0788ceaab574c40cab4e5dcb8064c/tumblr_o1xopt63tL1qly645o1_1280.jpg)  
+ ![](/tumblr_files/tumblr_o1xopt63tL1qly645o1_1280.jpg)  
 
 Latest [WebLight](https://github.com/sowbug/weblight).
 

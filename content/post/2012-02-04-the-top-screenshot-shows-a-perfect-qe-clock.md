@@ -3,9 +3,9 @@ date = "2012-02-04T09:47:39-08:00"
 title = "the top screenshot shows a perfect qe clock"
 +++
 
- ![](http://67.media.tumblr.com/tumblr_lyv0nndsnv1qly645o1_1280.png)  
+ ![](/tumblr_files/tumblr_lyv0nndsnv1qly645o1_1280.png)  
 Saleae Logic: 1MHz Q/E from 4MHz
-clock![](http://67.media.tumblr.com/tumblr_lyv0nndsnv1qly645o2_1280.jpg)  
+clock![](/tumblr_files/tumblr_lyv0nndsnv1qly645o2_1280.jpg)  
 XC9572XL connected to oscillator  
 
 The top screenshot shows a perfect Q/E clock signal generated using a 4MHz

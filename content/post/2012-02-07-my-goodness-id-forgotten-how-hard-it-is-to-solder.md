@@ -3,12 +3,11 @@ date = "2012-02-07T11:20:06-08:00"
 title = "my goodness id forgotten how hard it is to solder"
 +++
 
-
-![](http://67.media.tumblr.com/tumblr_lz0h5gpID71qly645o1_1280.jpg)  
+ ![](/tumblr_files/tumblr_lz0h5gpID71qly645o1_1280.jpg)  
 The three boards, before
-assembly.![](http://66.media.tumblr.com/tumblr_lz0h5gpID71qly645o2_1280.jpg)  
+assembly.![](/tumblr_files/tumblr_lz0h5gpID71qly645o2_1280.jpg)  
 WORST SOLDER BRIDGES
-EVER![](http://67.media.tumblr.com/tumblr_lz0h5gpID71qly645o3_1280.jpg)  
+EVER![](/tumblr_files/tumblr_lz0h5gpID71qly645o3_1280.jpg)  
 Board #1 working, next to proud sibling  
 
 My goodness I'd forgotten how hard it is to solder surface-mount devices. But

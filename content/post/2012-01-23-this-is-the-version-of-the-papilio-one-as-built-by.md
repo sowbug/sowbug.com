@@ -3,8 +3,7 @@ date = "2012-01-23T14:51:52-08:00"
 title = "this is the version of the papilio one as built by"
 +++
 
-
-![](http://67.media.tumblr.com/tumblr_ly8jejz9XD1qly645o1_1280.jpg)  
+ ![](/tumblr_files/tumblr_ly8jejz9XD1qly645o1_1280.jpg)  
 
 This is the version of the [Papilio One](http://papilio.cc/) as built by
 [SeeedStudio](http://www.seeedstudio.com/). It's possible that versions built
