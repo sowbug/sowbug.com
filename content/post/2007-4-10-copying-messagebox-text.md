@@ -3,8 +3,7 @@ date = "2007-04-10T16:43:47+00:00"
 title = "Copying MessageBox text"
 +++
 
-\--- title: Copying MessageBox text mt_id: 286 layout: post date: 2007-04-10
-16:43:47 +00:00 \---
+
 
 It is a small pet peeve of mine that many people in software development use
 screenshots to send around reports of errors in Windows applications. The path

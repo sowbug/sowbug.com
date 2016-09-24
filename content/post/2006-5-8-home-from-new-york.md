@@ -3,8 +3,7 @@ date = "2006-05-08T10:28:58+00:00"
 title = "Home from New York"
 +++
 
-\--- title: Home from New York mt_id: 236 layout: post date: 2006-05-08
-10:28:58 +00:00 \---
+
 
 We're back in California after a week in the Eastern timezone. I worked out of
 the Google New York office while Mary and the kids cruised around Manhattan.

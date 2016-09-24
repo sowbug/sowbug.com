@@ -3,8 +3,7 @@ date = "2005-05-28T23:04:43+00:00"
 title = "Linkstation 145/146/147 password"
 +++
 
-\--- title: Linkstation 145/146/147 password mt_id: 175 layout: post date:
-2005-05-28 23:04:43 +00:00 \---
+
 
 I wanted to add a few features to my Linkstation HD-H120LAN, but the newer
 versions of the 1.4x firmware are password-protected and don't have the same

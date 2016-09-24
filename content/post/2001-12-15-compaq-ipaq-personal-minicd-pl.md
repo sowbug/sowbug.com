@@ -3,8 +3,7 @@ date = "2001-12-15T10:36:41+00:00"
 title = "Compaq iPAQ Personal Mini-CD Player PM-1"
 +++
 
-\--- title: Compaq iPAQ Personal Mini-CD Player PM-1 mt_id: 5 layout: post
-date: 2001-12-15 10:36:41 +00:00 \---
+
 
 My fellow gadget-head officemate Robert showed up this morning (mid-December
 2001) with a new toy: a portable Sony CD/MP3 player. This set off the usual

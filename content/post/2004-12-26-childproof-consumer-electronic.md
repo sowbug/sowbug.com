@@ -3,8 +3,7 @@ date = "2004-12-26T16:31:00+00:00"
 title = "Childproof Consumer Electronics"
 +++
 
-\--- title: Childproof Consumer Electronics mt_id: 152 layout: post date:
-2004-12-26 16:31:00 +00:00 \---
+
 
 I wish DVD players and TVs came with a "childproof" mode, where you had to do
 something special to turn it on, like press the power button three times in a

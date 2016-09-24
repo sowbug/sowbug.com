@@ -3,8 +3,7 @@ date = "2005-01-30T22:32:00+00:00"
 title = "DVD Shrink"
 +++
 
-\--- title: DVD Shrink mt_id: 158 layout: post date: 2005-01-30 22:32:00
-+00:00 \---
+
 
 The best part of [ DVD Shrink](http://www.dvdshrink.org/) is that it scrubs
 your DVDs of "prohibited user operation," or "PUOP" flags. You know, the ones

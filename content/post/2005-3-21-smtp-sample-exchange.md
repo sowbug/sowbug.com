@@ -3,8 +3,7 @@ date = "2005-03-21T16:38:57+00:00"
 title = "SMTP sample exchange"
 +++
 
-\--- title: SMTP sample exchange mt_id: 166 layout: post date: 2005-03-21
-16:38:57 +00:00 \---
+
 
 Because I always forget, here's how to manually send a mail given a telnet
 client and an SMTP server in order to test and make sure the server's working:

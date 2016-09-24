@@ -3,8 +3,7 @@ date = "2002-01-06T10:40:05+00:00"
 title = "Rackmount Server"
 +++
 
-\--- title: Rackmount Server mt_id: 6 layout: post date: 2002-01-06 10:40:05
-+00:00 \---
+
 
 ## Motivation
 

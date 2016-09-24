@@ -3,8 +3,7 @@ date = "2006-05-25T14:33:30+00:00"
 title = "Telephone tax"
 +++
 
-\--- title: Telephone tax mt_id: 240 layout: post date: 2006-05-25 14:33:30
-+00:00 \---
+
 
 As reported in [this Washington Post article](http://www.washingtonpost.com
 /wp-dyn/content/article/2006/05/25/AR2006052500720.html), the government will

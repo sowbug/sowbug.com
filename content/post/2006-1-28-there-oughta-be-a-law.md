@@ -3,8 +3,7 @@ date = "2006-01-28T15:14:51+00:00"
 title = "There oughta be a law..."
 +++
 
-\--- title: There oughta be a law... mt_id: 217 layout: post date: 2006-01-28
-15:14:51 +00:00 \---
+
 
 It should be illegal to give a child a gift of a toy that makes noise unless
 it's accompanied by a signed, notarized affidavit that the would-be giver has

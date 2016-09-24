@@ -3,8 +3,7 @@ date = "2005-06-29T13:29:39+00:00"
 title = "My server's back!"
 +++
 
-\--- title: My server's back! mt_id: 180 layout: post date: 2005-06-29
-13:29:39 +00:00 \---
+
 
 As all three of you noticed, my server died last Wednesday. It's a [User Mode
 Linux](http://user-mode-linux.sourceforge.net/) server, and my trusty nightly

@@ -3,8 +3,7 @@ date = "2005-06-29T15:18:32+00:00"
 title = "Server configuration"
 +++
 
-\--- title: Server configuration mt_id: 181 layout: post date: 2005-06-29
-15:18:32 +00:00 \---
+
 
 Some of what I've done to my new server so far. By the way, it's Fedora Core
 2. I'm running Core 2 because Core 3 and later pretty much require yum rather

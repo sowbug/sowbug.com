@@ -3,8 +3,7 @@ date = "2005-12-21T15:03:36+00:00"
 title = "U.S. law, Constitution not binding on future Presidents"
 +++
 
-\--- title: U.S. law, Constitution not binding on future Presidents mt_id: 212
-layout: post date: 2005-12-21 15:03:36 +00:00 \---
+
 
 [Bruce
 Schneier](http://www.schneier.com/blog/archives/2005/12/the_security_th_1.html)

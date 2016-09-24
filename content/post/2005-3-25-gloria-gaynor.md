@@ -3,8 +3,7 @@ date = "2005-03-25T21:46:32+00:00"
 title = "Gloria Gaynor"
 +++
 
-\--- title: Gloria Gaynor mt_id: 167 layout: post date: 2005-03-25 21:46:32
-+00:00 \---
+
 
 Yesterday on the XM Radio station [
 Chrome](http://www.xmradio.com/programming/channel_page.jsp?ch=83) I heard the

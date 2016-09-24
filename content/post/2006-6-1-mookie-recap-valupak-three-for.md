@@ -3,8 +3,7 @@ date = "2006-06-01T09:08:15+00:00"
 title = "Mookie recap (valu-pak! three for the price of one!)"
 +++
 
-\--- title: Mookie recap (valu-pak! three for the price of one!) mt_id: 242
-layout: post date: 2006-06-01 09:08:15 +00:00 \---
+
 
 Three weeks' worth of [Mookie](http://mookie99.bigopokerroom.com/) tourneys,
 condensed into one blog post.

@@ -3,8 +3,7 @@ date = "2005-04-19T19:38:55+00:00"
 title = "Buffalo Linkstation"
 +++
 
-\--- title: Buffalo Linkstation mt_id: 169 layout: post date: 2005-04-19
-19:38:55 +00:00 \---
+
 
 If you are having trouble updating the firmware on your [ Buffalo
 Linkstation](http://www.buffalotech.com/products/product-

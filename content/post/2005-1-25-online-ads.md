@@ -3,8 +3,7 @@ date = "2005-01-25T11:00:00+00:00"
 title = "Online ads"
 +++
 
-\--- title: Online ads mt_id: 157 layout: post date: 2005-01-25 11:00:00
-+00:00 \---
+
 
 [ This
 article](http://www.clickz.com/experts/crm/analyze_data/print.php/3462651)

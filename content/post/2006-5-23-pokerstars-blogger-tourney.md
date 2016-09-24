@@ -3,8 +3,7 @@ date = "2006-05-23T10:23:57+00:00"
 title = "PokerStars Blogger Tourney"
 +++
 
-\--- title: PokerStars Blogger Tourney mt_id: 239 layout: post date:
-2006-05-23 10:23:57 +00:00 \--- [![Texas Holdem
+ [![Texas Holdem
 Poker](http://www.pokerstars.com/blog_tournament/images/blogger-
 tournament-2006-2.gif)](http://www.pokerstars.com/blog_tournament/)
 

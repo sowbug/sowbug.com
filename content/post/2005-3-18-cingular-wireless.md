@@ -3,8 +3,7 @@ date = "2005-03-18T13:28:43+00:00"
 title = "Cingular Wireless"
 +++
 
-\--- title: Cingular Wireless mt_id: 162 layout: post date: 2005-03-18
-13:28:43 +00:00 \---
+
 
 AT&amp;T; Wireless customers, one of whom is me, were switched over to
 Cingular a few months ago following the merger. My new carrier has a trick to

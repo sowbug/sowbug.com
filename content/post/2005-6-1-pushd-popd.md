@@ -3,8 +3,7 @@ date = "2005-06-01T08:31:48+00:00"
 title = "pushd &amp; popd"
 +++
 
-\--- title: pushd &amp; popd mt_id: 177 layout: post date: 2005-06-01 08:31:48
-+00:00 \---
+
 
 Yesterday I discovered the shell commands pushd and popd. For some reason
 every time I read the man pages I didn't grok what they were for, but this

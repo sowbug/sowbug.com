@@ -3,8 +3,7 @@ date = "2004-12-13T12:11:00+00:00"
 title = "Importation of Canadian drugs"
 +++
 
-\--- title: Importation of Canadian drugs mt_id: 151 layout: post date:
-2004-12-13 12:11:00 +00:00 \---
+
 
 I think the U.S. drug industry is betting that the government will never allow
 Americans to import Canadian drugs.

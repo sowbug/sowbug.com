@@ -5,6 +5,7 @@ import frontmatter
 import html2text
 import os
 import re
+import sys
 
 DIR="./original/jekyll/"
 
@@ -15,6 +16,8 @@ for filename in os.listdir(DIR):
         f.close()
         contents = re.sub(r"---", r"---\n\n", contents, re.M)
         md = html2text.html2text(contents)
+        md = re.sub(r"^\\---.*(\n)*.*\\---", r"", md, re.M)
+
         fm = frontmatter.loads(contents)
         fout = open("content/post/" +
                     os.path.splitext(filename)[0] + ".md", "w")

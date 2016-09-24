@@ -3,8 +3,7 @@ date = "2006-05-22T10:22:00+00:00"
 title = "Tilt (continued)"
 +++
 
-\--- title: Tilt (continued) mt_id: 238 layout: post date: 2006-05-22 10:22:00
-+00:00 \---
+
 
 Things are looking better:
 

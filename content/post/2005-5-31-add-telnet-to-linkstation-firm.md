@@ -3,8 +3,7 @@ date = "2005-05-31T21:28:53+00:00"
 title = "Add telnet to Linkstation firmware"
 +++
 
-\--- title: Add telnet to Linkstation firmware mt_id: 176 layout: post date:
-2005-05-31 21:28:53 +00:00 \---
+
 
 [ This tarball](http://www.sowbug.org/mt/archives/mod_ls_firmware.tar.gz)
 contains the Linkstation telnet binary and a script that inserts the binary

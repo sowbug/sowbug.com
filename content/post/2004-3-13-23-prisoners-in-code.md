@@ -3,8 +3,7 @@ date = "2004-03-13T11:12:54+00:00"
 title = "23 Prisoners, in code"
 +++
 
-\--- title: 23 Prisoners, in code mt_id: 38 layout: post date: 2004-03-13
-11:12:54 +00:00 \--- And here is a C program that tests my solution. `
+ And here is a C program that tests my solution. `
 
     
     

@@ -3,8 +3,7 @@ date = "2001-08-07T13:31:28+00:00"
 title = "Windows Programming Tips"
 +++
 
-\--- title: Windows Programming Tips mt_id: 296 layout: post date: 2001-08-07
-13:31:28 +00:00 \---
+
 
 ### Wise guidelines to follow when working on team programming projects
 

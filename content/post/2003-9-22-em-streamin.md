@@ -3,8 +3,7 @@ date = "2003-09-22T07:46:56+00:00"
 title = "EM_STREAMIN"
 +++
 
-\--- title: EM_STREAMIN mt_id: 7 layout: post date: 2003-09-22 07:46:56 +00:00
-\---
+
 
 What do you usually do when you need to set text in a Windows control? You do
 one of the following:

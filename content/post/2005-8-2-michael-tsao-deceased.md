@@ -3,8 +3,7 @@ date = "2005-08-02T15:57:38+00:00"
 title = "Michael Tsao, deceased"
 +++
 
-\--- title: Michael Tsao, deceased mt_id: 193 layout: post date: 2005-08-02
-15:57:38 +00:00 \---
+
 
 I came across the following ominous search term in my webserver logs:
 

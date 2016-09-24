@@ -3,8 +3,7 @@ date = "2006-04-25T13:05:43+00:00"
 title = "Two live cards"
 +++
 
-\--- title: Two live cards mt_id: 233 layout: post date: 2006-04-25 13:05:43
-+00:00 \---
+
 
 Some bloggers were playing in a blogger-only WSOP satellite Sunday night. Two
 short stacks went all-in; one survived. But the survivor had the hammer (7-2

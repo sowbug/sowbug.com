@@ -3,8 +3,7 @@ date = "2005-01-02T16:46:00+00:00"
 title = "AutoGK contains adware"
 +++
 
-\--- title: AutoGK contains adware mt_id: 154 layout: post date: 2005-01-02
-16:46:00 +00:00 \---
+
 
 I regret that I need to retract my earlier recommendation to use Auto Gordian
 Knot. The 1.84 beta installs a BHO at c:\windows\system32\dae.dll

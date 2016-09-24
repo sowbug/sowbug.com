@@ -3,8 +3,7 @@ date = "2005-06-03T12:19:12+00:00"
 title = "SMART-BURN is smart"
 +++
 
-\--- title: SMART-BURN is smart mt_id: 178 layout: post date: 2005-06-03
-12:19:12 +00:00 \---
+
 
 This past weekend I was burning a DVD, and about halfway through I
 accidentally dropped something on the keyboard's sleep button. The CPU fan

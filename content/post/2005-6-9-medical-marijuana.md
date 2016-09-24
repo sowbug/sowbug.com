@@ -3,8 +3,7 @@ date = "2005-06-09T11:20:51+00:00"
 title = "Medical marijuana"
 +++
 
-\--- title: Medical marijuana mt_id: 179 layout: post date: 2005-06-09
-11:20:51 +00:00 \---
+
 
 In _ [ Gonzales v.
 Raich](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=000&invol=03-1454)_,

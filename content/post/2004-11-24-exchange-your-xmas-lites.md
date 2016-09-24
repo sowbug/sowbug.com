@@ -3,8 +3,7 @@ date = "2004-11-24T17:37:00+00:00"
 title = "Exchange your xmas lites"
 +++
 
-\--- title: Exchange your xmas lites mt_id: 150 layout: post date: 2004-11-24
-17:37:00 +00:00 \---
+
 
 Apparently, if you go [
 here](http://temp.sfgov.org/sfenvironment/aboutus/ecocenter.htm), you can

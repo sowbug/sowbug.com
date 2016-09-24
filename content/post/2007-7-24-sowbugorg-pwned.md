@@ -3,8 +3,7 @@ date = "2007-07-24T14:34:27+00:00"
 title = "sowbug.org pwned"
 +++
 
-\--- title: sowbug.org pwned mt_id: 297 layout: post date: 2007-07-24 14:34:27
-+00:00 \---
+
 
 The reason I recently switched blog software and moved some stuff around on my
 site is that my server got hacked. Here's the story.

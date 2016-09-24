@@ -3,8 +3,7 @@ date = "2003-06-22T12:55:43+00:00"
 title = "tinyp2p: a ridiculously simple peer-to-peer chat program"
 +++
 
-\--- title: "tinyp2p: a ridiculously simple peer-to-peer chat program" mt_id:
-295 layout: post date: 2003-06-22 12:55:43 +00:00 \--- ![tinyp2p
+ ![tinyp2p
 screenshot](/assets/img/screenshot.jpeg)
 
 I wrote this to test asynchronous socket I/O notifications on Windows. It

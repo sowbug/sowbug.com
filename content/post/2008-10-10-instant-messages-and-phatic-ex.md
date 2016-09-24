@@ -3,8 +3,7 @@ date = "2008-10-10T14:30:59+00:00"
 title = "Instant messages and phatic expressions"
 +++
 
-\--- title: Instant messages and phatic expressions mt_id: 378 layout: post
-date: 2008-10-10 14:30:59 +00:00 \---
+
 
 Instant messages are meant to be instant. That's the whole point. Please don't
 start instant message conversations with "throat-clearing" phrases. Just say

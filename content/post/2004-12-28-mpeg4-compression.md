@@ -3,8 +3,7 @@ date = "2004-12-28T09:37:00+00:00"
 title = "MPEG-4 compression"
 +++
 
-\--- title: MPEG-4 compression mt_id: 153 layout: post date: 2004-12-28
-09:37:00 +00:00 \---
+
 
 I've done some research into backing up DVDs. The motivation was my
 observation that my daughter is sure to destroy at least a few DVDs in the

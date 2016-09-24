@@ -3,8 +3,7 @@ date = "2006-06-06T22:52:28+00:00"
 title = "Pocket aces redeemed?"
 +++
 
-\--- title: Pocket aces redeemed? mt_id: 244 layout: post date: 2006-06-06
-22:52:28 +00:00 \---
+
 
 After losing a few too many late-stage tournaments with AA, whether to KK
 making a set on the flop, or to my opponent's pair on the flop making two pair

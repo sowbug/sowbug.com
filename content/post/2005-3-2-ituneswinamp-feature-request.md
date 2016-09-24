@@ -3,8 +3,7 @@ date = "2005-03-02T10:36:14+00:00"
 title = "iTunes/Winamp feature request"
 +++
 
-\--- title: iTunes/Winamp feature request mt_id: 160 layout: post date:
-2005-03-02 10:36:14 +00:00 \---
+
 
 When I'm listening to internet radio, I'd like a hotkey that copies the
 current song information into the clipboard so I can paste it into a "songs to

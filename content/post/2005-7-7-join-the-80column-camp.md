@@ -3,8 +3,7 @@ date = "2005-07-07T09:26:12+00:00"
 title = "Join the 80-column camp!"
 +++
 
-\--- title: Join the 80-column camp! mt_id: 188 layout: post date: 2005-07-07
-09:26:12 +00:00 \---
+
 
 Compared to the pre-GUI era, the typical workstation display these days is _
 big_. [We're](http://www.google.com/jobs) stocking new engineers with dual

@@ -3,8 +3,7 @@ date = "2005-09-21T18:22:19+00:00"
 title = "On Being a Pedestrian from California in Manhattan"
 +++
 
-\--- title: On Being a Pedestrian from California in Manhattan mt_id: 203
-layout: post date: 2005-09-21 18:22:19 +00:00 \---
+
 
 California natives need a leap of faith to survive as pedestrians in New York.
 The first challenge we face is distance. People in Manhattan -- normal people

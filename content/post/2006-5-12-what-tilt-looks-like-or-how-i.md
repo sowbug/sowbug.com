@@ -3,8 +3,7 @@ date = "2006-05-12T12:11:33+00:00"
 title = "What tilt looks like (or, how I turned $1 into $20,000)"
 +++
 
-\--- title: What tilt looks like (or, how I turned $1 into $20,000) mt_id: 237
-layout: post date: 2006-05-12 12:11:33 +00:00 \---
+
 
 ![What tilt looks like](/assets/img/DisplayGraph.png)
 

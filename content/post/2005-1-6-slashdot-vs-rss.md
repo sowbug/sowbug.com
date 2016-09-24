@@ -3,8 +3,7 @@ date = "2005-01-06T11:44:00+00:00"
 title = "Slashdot vs. RSS"
 +++
 
-\--- title: Slashdot vs. RSS mt_id: 156 layout: post date: 2005-01-06 11:44:00
-+00:00 \---
+
 
 For nearly seven years, Slashdot has been my primary source for geek news.
 Nearly everything I've read there was novel. But lately I've noticed that I

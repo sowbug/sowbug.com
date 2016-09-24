@@ -3,8 +3,7 @@ date = "2008-08-29T09:38:48+00:00"
 title = "On the apparent false economy of written documentation"
 +++
 
-\--- title: On the apparent false economy of written documentation mt_id: 368
-layout: post date: 2008-08-29 09:38:48 +00:00 \---
+
 
 Anyone who's worked with me for more than four hours knows that when it comes
 to efficient use of time at the office, I have the soul of an 80-year-old

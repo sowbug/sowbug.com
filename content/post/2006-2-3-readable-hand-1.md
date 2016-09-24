@@ -3,8 +3,7 @@ date = "2006-02-03T09:45:56+00:00"
 title = "Readable Hand #1"
 +++
 
-\--- title: "Readable Hand #1" mt_id: 218 layout: post date: 2006-02-03
-09:45:56 +00:00 \---
+
 
 In [Hold 'Em
 Poker](http://www.amazon.com/exec/obidos/ASIN/1880685086/sowbug-20/103-9673860-9894215?%5Fencoding=UTF8&camp=1789&link%5Fcode=xm2),

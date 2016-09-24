@@ -3,8 +3,7 @@ date = "2005-03-18T15:48:40+00:00"
 title = "MP3 Collection"
 +++
 
-\--- title: MP3 Collection mt_id: 163 layout: post date: 2005-03-18 15:48:40
-+00:00 \---
+
 
 I finally bit the bullet and started encoding my whole CD collection. I have
 4,201 songs ripped with about 50 CDs to go. Mary's happy, because in the

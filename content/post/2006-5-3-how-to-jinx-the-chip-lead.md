@@ -3,8 +3,7 @@ date = "2006-05-03T20:52:07+00:00"
 title = "How to jinx the chip lead"
 +++
 
-\--- title: How to jinx the chip lead mt_id: 235 layout: post date: 2006-05-03
-20:52:07 +00:00 \---
+
 
 Tonight's [Mookie](http://mookie99.bigopokerroom.com/) tourney was a
 heartbreaker. After a weak start in which the relentless chatter of bloggers

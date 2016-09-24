@@ -3,8 +3,7 @@ date = "1999-12-27T14:36:26+00:00"
 title = "Building Quake from id's source"
 +++
 
-\--- title: Building Quake from id's source mt_id: 3 layout: post date:
-1999-12-27 14:36:26 +00:00 \---
+
 
 If you'd like to compile Quake under Linux, [here's another tutorial (dead
 link)](building_quake.html) from [Ralph Churchill](mailto:church@webzone.net).
