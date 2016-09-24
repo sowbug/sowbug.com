@@ -1,0 +1,15 @@
+---
+layout: post
+title: 'JTAG TCK: active-low?'
+date: '2012-01-29T16:42:05-08:00'
+tags:
+- '8821'
+- xilinx
+tumblr_url: http://www.sowbug.com/post/16730593812/jtag-tck-active-low
+---
+<p>Why does it seem like the JTAG clock signal is active low? Consider this snippet from Xilinx&rsquo;s <a href="https://github.com/sowbug/xapp058">XAPP058 source code</a>.</p>
+<blockquote>
+<p>/* toggle tck LH.  No need to modify this code.  It is output via setPort. */<br/>void pulseClock()<br/>{<br/>    setPort(TCK,0);  /* set the TCK port to low  */<br/>    setPort(TCK,1);  /* set the TCK port to high */<br/>}</p>
+
+</blockquote>
+<p>This means that when the clock isn&rsquo;t being pulsed, it&rsquo;s high. Right? If so, why don&rsquo;t any <a href="http://en.wikipedia.org/wiki/Joint_Test_Action_Group#Electrical_characteristics">descriptions of JTAG&rsquo;s electrical characteristics</a> say it&rsquo;s active low?</p>

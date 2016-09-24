@@ -1,0 +1,9 @@
+---
+layout: post
+title: this is getting ridiculous its time to make a
+date: '2012-01-18T16:44:05-08:00'
+tags:
+- '8821'
+tumblr_url: http://www.sowbug.com/post/16088202626/this-is-getting-ridiculous-its-time-to-make-a
+---
+<img src="http://65.media.tumblr.com/tumblr_lxvmzg7w9E1qly645o1_1280.jpg"/><br/><p>This is getting ridiculous. It&rsquo;s time to make a PCB or move to FPGA, because I&rsquo;m running out of breadboard space. On the near side of the breadboard are three &lsquo;595s, forming serial-to-parallel address and data latches to load up the SRAM. The data '595 is leftmost, the low byte of the address is in the middle, and the high byte is on the right. To the right of the third '595 is another ATtiny13a (my first project with two AVRs in a single circuit!). It&rsquo;s latching the bits into the '595s, telling them it&rsquo;s OK to copy their registers to the outputs, and then when the three bytes are ready, setting a strobe signal that will tell the SRAM to use the address/data values to set a byte in itself. The two halves of the breadboard don&rsquo;t talk to each other yet. Next step is to hook the '595s to the SRAM.</p>

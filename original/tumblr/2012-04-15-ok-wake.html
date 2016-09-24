@@ -1,0 +1,14 @@
+---
+layout: post
+title: OK Wake
+date: '2012-04-15T09:02:00-07:00'
+tags:
+- AVR
+- OK Wake
+tumblr_url: http://www.sowbug.com/post/21150945583/ok-wake
+---
+<p><img align="middle" src="http://66.media.tumblr.com/tumblr_m2j0uj7FM71qjj3vh.png"/></p>
+<p><a href="https://github.com/sowbug/ok-wake">OK Wake</a> is a project for a friend whose kids are old enough to get out of bed on their own, but not yet old enough to read clocks, meaning that they tend to start waking up the whole house at 4am.</p>
+<p>As it gets close to wake-up time, the device starts gently blinking red. At the designated hour, it changes to green. That&rsquo;s about it!</p>
+<p>The circuit is my first using a real-time clock. I&rsquo;ll be drawing on my power management experience from the <a href="https://github.com/sowbug/hypnagogo">Hypna Go Go</a>. I was going to use a surface-mount ATtiny, but I ran out of pins for ISP, so rather than trying to get clever with jumpers, I made it socketed instead.</p>
+<p>I want to keep the software insanely simple. I hope it requires zero configuration; it&rsquo;ll just do its thing every day for the couple years it will take before the kids learn to read. In the event the clock does need to be set, I think I can figure out something mildly inconvenient but simple involving the button (like pressing it for one second to reset it to 7pm, which takes care of timezones within the U.S., and handles any accuracy issues over the months and years). This scheme could take care of Daylight Saving Time; either you need to press the button twice a year, or else pressing it resets it to 7pm <em>of the current day</em>, and the RTC still tracks DST switchovers.</p>

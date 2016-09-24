@@ -1,0 +1,18 @@
+---
+layout: post
+title: my goodness id forgotten how hard it is to solder
+date: '2012-02-07T11:20:06-08:00'
+tags:
+- '8821'
+- xilinx
+tumblr_url: http://www.sowbug.com/post/17218941479/my-goodness-id-forgotten-how-hard-it-is-to-solder
+---
+<img src="http://67.media.tumblr.com/tumblr_lz0h5gpID71qly645o1_1280.jpg"/><br/>The three boards, before assembly.<img src="http://66.media.tumblr.com/tumblr_lz0h5gpID71qly645o2_1280.jpg"/><br/>WORST SOLDER BRIDGES EVER<img src="http://67.media.tumblr.com/tumblr_lz0h5gpID71qly645o3_1280.jpg"/><br/>Board #1 working, next to proud sibling<br/><p>My goodness I&rsquo;d forgotten how hard it is to solder surface-mount devices. But I did it, and one of three XC9572XL breakout boards is working. Rehash of experience in approximate order of occurrence:</p>
+<ul><li>Wanted to work on a different, software project tonight, but the boards arrived in the mail and they were so purple that I had to work on them right away.</li>
+<li>I don&rsquo;t understand how any SMD component could be smaller than 0603. Seriously, they make 0204, but 0603 almost floats if I breathe in the same room as it.</li>
+<li>Dangerous Prototypes, you&rsquo;re good guys and all, but did you really put the three inline LEDs in different polarities? I burned up one and reworked four in the process of figuring that out.</li>
+<li>Despite triple-checking, I put the 10K resistors where the 2Ks go. More rework.</li>
+<li>To remove solder bridges from gull-wing QFP leads, clean the tip, flux the heck out of the bridge, and press gently on it. Bam! <a href="http://www.youtube.com/watch?v=eg2hxpy--gg">Ready to ship</a>.</li>
+<li>Did I say flux? Yes, flux is totally, utterly awesome for making solder just do the right thing.</li>
+<li>Your CPLD breakout board will kinda sorta accept an XSVF if the 3.3-volt IO jumper is off. In fact, the kinda sorta acceptance is exactly the same as if you&rsquo;d done a cold solder joint here or there, or maybe shorted a capacitor, or left some conductive flux on the board, or&hellip;. Anyway, after ruling all those things out you&rsquo;ll try the jumper and find that it programs perfectly well.</li>
+</ul><p>I&rsquo;ll finish the other two some other time. Right now, I&rsquo;m so happy this first one works!</p>

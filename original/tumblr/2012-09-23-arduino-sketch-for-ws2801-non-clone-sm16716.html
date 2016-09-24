@@ -1,0 +1,14 @@
+---
+layout: post
+title: Arduino sketch for WS2801-non-clone SM16716
+date: '2012-09-23T09:01:00-07:00'
+tags:
+- WS2801
+- g35
+- SM16716
+tumblr_url: http://www.sowbug.com/post/32128115505/arduino-sketch-for-ws2801-non-clone-sm16716
+---
+<p>I got a strand of 50 LED lights from &ldquo;someone in China.&rdquo; They were advertised as being WS2801-based, but they didn&rsquo;t work with Arduino sketches for that chip.</p>
+<p>So now I have a 49-light strand, a sacrificial light that I had to rip apart to find the chip identifier (&ldquo;SM16716&rdquo;), and <a href="https://github.com/sowbug/sm16716">an Arduino sketch</a> that proves that they work. Thank you, Google Translate, for help with the Chinese-only datasheet for the 16716.</p>
+<p><img src="http://67.media.tumblr.com/tumblr_mat8hnaDe51qjj3vh.jpg"/></p>
+<p>By the way, there is a probably great library, <a href="http://code.google.com/p/fastspi/">FastSPI</a>, that supports many chipsets including the 16716. Unfortunately, it just didn&rsquo;t work for my Uno/strand combination, and I&rsquo;m not sure why (the code looks right). I&rsquo;ll probably debug that code and submit a patch.</p>

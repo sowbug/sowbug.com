@@ -1,0 +1,8 @@
+---
+layout: post
+title: Enabling Yubico U2F Security Key on Chrome for Ubuntu 15.04
+date: '2015-10-17T11:36:08-07:00'
+tags: []
+tumblr_url: http://www.sowbug.com/post/131363489376/enabling-yubico-u2f-security-key-on-chrome-for
+---
+<p>This works for the <a href="http://amzn.to/1jLwkVf">blue FIDO U2F key</a>.</p><p>Create a new file called <b>/etc/udev/rules.d/50-security-key.rules</b>:</p><p><code><b>SUBSYSTEMS=="usb", ATTRS{idVendor}=="1050", OWNER="root", GROUP="plugdev", MODE:="0660"</b></code></p><p>Once that file is saved, <b>sudo udevadm control &ndash;reload-rules</b> and then restart Chrome. Your security key, which previously was likely giving you a “An unexpected error occurred [retry]” message, will now work.</p><p>I figured this out with the command <b>udevadm info -n /dev/usb/hiddev0 -a</b>, inspecting the output to determine that other solutions on the web were missing the S at the end of SUBSYSTEMS and ATTRS. For the assignment parts of the udev rule, the values root/plugdev/0660 were correct.</p>

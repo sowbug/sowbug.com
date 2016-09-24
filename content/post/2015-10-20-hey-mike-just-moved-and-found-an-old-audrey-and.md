@@ -1,0 +1,12 @@
+﻿+++
+date = "2015-10-20T16:44:30-07:00"
+title = "hey mike - just moved and found an old audrey and was combing through the interwebs to see if anyone had any interesting images to flash onto it.  dead link brought me here.  also local.  was seeing if you had anything archived away.  i have all the ethernet hardware - just an old project I never got around to.  cheers"
++++
+
+
+
+Awesome! Give this a try:
+<https://dl.dropboxusercontent.com/u/131036/audrey/audrey_redist.iso> and let
+me know if you get anywhere with it. I am not sure whether those qualify as
+interesting, but they’re the originals that others used to build better ones.
+

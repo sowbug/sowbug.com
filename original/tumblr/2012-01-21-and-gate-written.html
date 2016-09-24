@@ -1,0 +1,22 @@
+---
+layout: post
+title: AND gate written
+date: '2012-01-21T17:04:35-08:00'
+tags: []
+tumblr_url: http://www.sowbug.com/post/16239989030/and-gate-written
+---
+<p>I got something to build in the Xilinx ISE:</p>
+<pre>library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+entity foo is
+    Port ( port0 : in  STD_LOGIC;
+           port1 : in  STD_LOGIC;
+           port_out : out  STD_LOGIC);
+end foo;
+
+architecture Behavioral of foo is
+begin
+ port_out &lt;= port0 and port1;
+end Behavioral;</pre>
+<p>All it does is (in theory) set a high voltage on one pin when a high voltage is set on two other pins. But it&rsquo;s a start.</p>

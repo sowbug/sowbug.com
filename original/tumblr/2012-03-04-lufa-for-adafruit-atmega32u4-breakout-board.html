@@ -1,0 +1,12 @@
+---
+layout: post
+title: LUFA for Adafruit ATmega32u4 Breakout Board
+date: '2012-03-04T14:05:00-08:00'
+tags: []
+tumblr_url: http://www.sowbug.com/post/18751604404/lufa-for-adafruit-atmega32u4-breakout-board
+---
+<p><a href="http://fourwalledcubicle.com/LUFA.php">LUFA</a> is pretty amazing. If you&rsquo;re into that kind of thing, you can make your USB-capable AVR microcontroller be 100 virtual serial ports, all communicating with other, all at once. I&rsquo;m not sure why it took me a few hours to get even one virtual port to appear, but once I followed <a href="/post/16644998284/">my own steps</a> to restore my <a href="http://www.adafruit.com/products/296">&lsquo;32u4 breakout board</a> to factory-fresh condition, it worked nicely. Here are my notes:</p>
+<ul><li>To build any or all of the whole tree, get the source and then<br/><strong><br/>make MCU=atmega32u4 F_CPU=16000000 BOARD=ADAFRUITU4 FLASH_SIZE_KB=32 BOOT_SECTION_SIZE_KB=4<br/></strong><br/>You&rsquo;ll get various errors about missing joysticks, buttons, and ADC channels, and you&rsquo;ll have to hack and slash the code to pretend your board has a joystick (I used rand() % 4 to simulate someone flipping around the joystick wildly) or whatever else is missing. You might decide to give up and build just one or two sub-projects.</li>
+<li>To load a demo or project onto your board, cd into the right directory and<br/><strong><br/>make program MCU=atmega32u4 AVRDUDE_PROGRAMMER=avr109 AVRDUDE_PORT=/dev/wherever_your_board_shows_up<br/></strong><br/>You&rsquo;ll need to reset your board so the bootloader is running during this step.</li>
+<li>On my machine (a Mac), I kept System Information open to the USB section, and kept hitting command-R to see what my computer thought was attached to it.</li>
+</ul><p>I&rsquo;m fiddling with LUFA to get ready for the <a href="/post/18568875922/">AVR programmer</a>&rsquo;s arrival in a week or so. I don&rsquo;t expect to have ported an ISP by then, but at least I can have a simple CDC serial port saying &ldquo;hello, world!&rdquo;</p>

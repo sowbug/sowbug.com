@@ -1,0 +1,28 @@
+---
+layout: post
+title: How to play Minecraft on a Chromebook
+date: '2014-03-22T15:09:00-07:00'
+tags: []
+tumblr_url: http://www.sowbug.com/post/80400103720/how-to-play-minecraft-on-a-chromebook
+---
+<p><strong>First Time</strong></p>
+<ol><li>Get your Chromebook into <a href="http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices">Developer Mode</a>.</li>
+<li>Install <a href="https://github.com/dnschneid/crouton">Crouton</a>. This guide will assume the installation command you use is <span><strong>sudo sh -e ~/Downloads/crouton -t unity -r saucy</strong> and that when you are asked for a new username/password, you enter <strong>user</strong>/<strong>user</strong>.<br/></span></li>
+<li><strong>sudo apt-get install gnome-terminal</strong> (to avoid going crazy)</li>
+<li><strong> <strong>sudo apt-get install </strong>python-software-properties software-properties-common</strong></li>
+<li><strong>sudo add-apt-repository ppa:minecraft-installer-peeps/minecraft-installer</strong></li>
+<li><strong>sudo apt-get update</strong></li>
+<li><strong>sudo apt-get install minecraft-installer</strong></li>
+<li>Just to be sure you start from a good place, reboot your Chromebook at this point.</li>
+</ol><p><strong>Each Time</strong></p>
+<ol><li>Power up your Chromebook.</li>
+<li>Type Control-D at the scary screen or wait 30 seconds.</li>
+<li>Sign in as yourself or guest or whoever. Doesn&rsquo;t matter.</li>
+<li>Control-Alt-T to get into crosh (or better install the <a href="https://chrome.google.com/webstore/detail/crosh-window/nhbmpbdladcchdhkemlojfjdknjadhmh" target="_blank">Crosh Window</a> utility and use that).</li>
+<li><strong>shell</strong></li>
+<li><strong>sudo enter-chroot</strong></li>
+<li><strong>startunity</strong></li>
+<li>Click on the Ubuntu circle in the upper-left and start typing <strong>minecraft</strong>. The icon should appear. Click on it.</li>
+<li>Play Minecraft.</li>
+<li>To switch back and forth between your Linux and ChromeOS environments, use control-alt-shift-back/forward (where back/forward are either the keys between esc and refresh on your Chromebook keyboard, or else F1 and F2 on your standard PC keyboard).</li>
+</ol>

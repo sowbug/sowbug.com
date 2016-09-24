@@ -1,0 +1,11 @@
+---
+layout: post
+title: Board design improvements
+date: '2012-01-22T11:21:05-08:00'
+tags:
+- '8821'
+- theseus
+tumblr_url: http://www.sowbug.com/post/16302292846/board-design-improvements
+---
+<p>As I improve the <a href="/post/16258162053/board-sent-off-to-the-factory">board design</a> in my head, I think I can eliminate the EEPROM and downgrade the ATmega to an ATtiny. The design will now read files off an SD card instead. The ATtiny will populate a bank of the SRAM and present that to the 6809 as ROM, using the CPLD as a stand-in for a <a href="/post/16088202626/this-is-getting-ridiculous-its-time-to-make-a">series of &lsquo;595s</a>. The 'tiny will also load the FPGA, both from files on the SD card. I&rsquo;m assuming that Xilinx FPGAs can be loaded with SPI or something similarly pin-frugal. This feels like a better, more modern approach. Moreover, I wasn&rsquo;t looking forward to reflashing the EEPROM throughout development.</p>
+<p>Also, an amendment to my component count estimate: I forgot about power. So we need to add a few SOT-23 LDOs for the various voltages (1.8, 3.3, 5.0). But it&rsquo;ll still be a very small board.</p>

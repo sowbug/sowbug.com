@@ -1,0 +1,11 @@
+---
+layout: post
+title: Generating elliptic-curve keys in OpenSSL
+date: '2013-09-03T12:56:00-07:00'
+tags: []
+tumblr_url: http://www.sowbug.com/post/60199762760/generating-elliptic-curve-keys-in-openssl
+---
+<ul><li>Generate a key: openssl ecparam -name prime256v1 -out new-ecdsa-key.pem -genkey -noout</li>
+<li>Show the key just generated: openssl asn1parse -in new-ecdsa-key.pem</li>
+<li>Generate the public key corresponding to the given private one: openssl ec -in new-ecdsa-key.pem -pubout -text -noout</li>
+</ul>
