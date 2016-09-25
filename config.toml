@@ -1,4 +1,4 @@
-baseurl = "https://www.sowbug.com/"
+baseurl = "https://sowbug.github.io/"
 languageCode = "en-us"
-title = "sowbug.com"
+title = "github/sowbug"
 theme = "heather-hugo"
