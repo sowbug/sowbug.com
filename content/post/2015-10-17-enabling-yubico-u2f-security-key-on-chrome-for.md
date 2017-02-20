@@ -21,3 +21,6 @@ inspecting the output to determine that other solutions on the web were
 missing the S at the end of SUBSYSTEMS and ATTRS. For the assignment parts of
 the udev rule, the values root/plugdev/0660 were correct.
 
+*** Update February 2017
+
+Same idea for the [Feitian ePass NFC FIDO U2F Security Key](http://amzn.to/2kYcE1N), except idVendor is `096e`.
